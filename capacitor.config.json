@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "midibot-app",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
